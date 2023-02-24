@@ -55,9 +55,9 @@
       </p>
         <p align="center">
           <a href="https://github.com/ayan-mn18/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayan-mn18&theme=gruvbox&layout=compact&hide_border=true"
           alt="ayan-mn18 :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayan-mn18&theme=gruvbox&layout=compact&hide_border=true"
           alt="ayan-mn18 :: Top Langs by commit" />
           </a>
         </p>
